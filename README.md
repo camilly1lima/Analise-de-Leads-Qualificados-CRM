@@ -24,15 +24,19 @@ Critérios adicionais:
 - Leads que já receberam campanhas  
 - Exclusão de leads descadastrados nos últimos 30 dias  
 
-A partir da análise dos leads, foi realizada uma segmentação baseada no nível de propensão à conversão, considerando score, frequência de interação e histórico de resposta. Leads com maior engajamento foram direcionados para estratégias mais diretas e orientadas à conversão, utilizando canais de alta resposta como WhatsApp e Email, com comunicações personalizadas e intervalos curtos. Já leads com menor engajamento foram trabalhados por meio de estratégias de nutrição, com conteúdos educativos e automações baseadas em comportamento, visando o desenvolvimento gradual do interesse.
+Leads foram segmentados por propensão à conversão com base em engajamento e comportamento, direcionando estratégias de conversão ou nutrição. Foi estruturado um fluxo de reativação baseado em objeções, com acompanhamento por KPIs de funil e análise de LIFT. A análise Cohort apoiou estratégias de onboarding e retenção.
 
-Além disso, foi estruturado um fluxo de reativação considerando principais objeções como preço, tempo e indecisão, com abordagens progressivas de urgência. Para mensuração de performance, foram definidos KPIs ao longo de todo o funil, incluindo métricas de entrega (bounce, spam), engajamento (abertura, CTR, resposta) e conversão (receita, ROI). A análise de LIFT foi utilizada para comparar grupos com e sem campanha, permitindo identificar impactos negativos ou positivos das estratégias adotadas.
+ 📊 Impacto da Análise
 
-Por fim, a análise Cohort foi aplicada para entender padrões de retenção ao longo do tempo, possibilitando a definição de ações específicas para diferentes perfis de usuários, como foco em onboarding para novos leads e estratégias de retenção e aumento de valor para usuários mais antigos.
+A abordagem permite:
+- Priorização de leads com maior probabilidade de conversão  
+- Redução de esforço em leads desqualificados  
+- Otimização de campanhas com base em comportamento real  
+
+Mesmo com LIFT negativo, a análise permitiu identificar falhas de segmentação e oportunidades de melhoria.
 
 > ⚠️ Observação: Devido ao baixo volume da base (~100 leads) e à combinação dos filtros, o resultado pode ser reduzido ou inexistente.
 
----
 
 ## 💻 Query SQL
 
