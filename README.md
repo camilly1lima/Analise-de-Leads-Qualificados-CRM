@@ -1,6 +1,7 @@
  📊 CRM Case | Análise e Estratégia de Leads
 
 Projeto desenvolvido com foco em identificar leads qualificados e propor estratégias de conversão e retenção com base em dados de CRM.
+Todos os dados utilizados são ficticios apenas com a finalidade de estudos!
 
 🎯 Objetivo
 
